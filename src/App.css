@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.white{
+  color:antiquewhite;
+}
+
+.red{
+  color:red;
+}
+
+.orange{
+  color:orange;
+}
+
+.green{
+  color:green;
+}
+
+.purple{
+  .color:purple;
+}
+
+.blue{
+  color:blue;
+}
+
+.brown{
+  color:brown;
+}
+
+.lime{
+  color:lime;
+}
